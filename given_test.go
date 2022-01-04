@@ -12,8 +12,8 @@ import (
 
 	"github.com/golang-jwt/jwt/v4"
 
-	"github.com/MicahParks/keyfunc"
-	"github.com/MicahParks/keyfunc/examples/custom/method"
+	"github.com/alecsammon/keyfunc"
+	"github.com/alecsammon/keyfunc/examples/custom/method"
 )
 
 const (
